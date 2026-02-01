@@ -12,6 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
+  metadataBase: new URL("https://vanshaggarwal.vercel.app"),
   title: "Vansh Aggarwal",
   description:
     "Full-Stack Developer - Creating innovative digital solutions with modern web technologies",
